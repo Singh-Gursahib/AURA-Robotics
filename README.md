@@ -1,4 +1,5 @@
 # AURA: Vision-Controlled IoT-Enabled Robotic Arm
+**⚠️ Note**: Full source code and technical documentation will be released following the completion of our academic publication process. We're excited to share this with the community soon!
 
 > Bridging the Complexity Gap in Industrial Robotics
 
@@ -20,12 +21,12 @@
 
 ## 👥 Team
 
-Developed during the IoT course (Fall 2024) at Thompson Rivers University:
-- **Gursahib Singh** - Lead Developer
-- **Deepansh Sharma** - Systems Architect
-- **Yassh Singh** - IoT Integration
-- **Noori Arora** - Computer Vision
-- **Vansh Sethi** - Control Systems
+Developed during the IoT course (Fall 2025) at Thompson Rivers University:
+- **Gursahib Singh** 
+- **Deepansh Sharma** 
+- **Yassh Singh** 
+- **Noori Arora**
+- **Vansh Sethi**
 
 *Guided by Dr. Anthony Aighobahi*
 
@@ -37,14 +38,10 @@ Developed during the IoT course (Fall 2024) at Thompson Rivers University:
 - **IoT Telemetry**: Firebase
 - **Hardware**: 3D-printed components, servo motors
 
-## 📖 Learn More
-
-For detailed project information, visit: [AURA on Gursahib Singh's Portfolio](https://yourgursahib.com/projects/aura-robotics)
 
 ## 📬 Connect
 
 Interested in collaboration or implementation? Please reach out!
 
----
 
-**⚠️ Note**: Full source code and technical documentation will be released following the completion of our academic publication process. We're excited to share this with the community soon!
+
